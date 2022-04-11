@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Dec 07 15:47:30 IST 2021
+spring-boot-devtools-2.1.5.RELEASE.jar>central=
+spring-boot-devtools-2.1.5.RELEASE-sources.jar>central=
+spring-boot-devtools-2.1.5.RELEASE.pom>central=

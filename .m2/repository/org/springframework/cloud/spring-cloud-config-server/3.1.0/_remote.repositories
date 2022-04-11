@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 06 16:09:19 IST 2021
+spring-cloud-config-server-3.1.0.pom>central=
+spring-cloud-config-server-3.1.0.jar>central=
+spring-cloud-config-server-3.1.0-sources.jar>central=

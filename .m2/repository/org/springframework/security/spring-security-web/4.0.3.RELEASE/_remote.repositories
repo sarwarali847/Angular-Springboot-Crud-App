@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 01 18:04:54 IST 2021
+spring-security-web-4.0.3.RELEASE.jar>central=
+spring-security-web-4.0.3.RELEASE.pom>central=
+spring-security-web-4.0.3.RELEASE-sources.jar>central=

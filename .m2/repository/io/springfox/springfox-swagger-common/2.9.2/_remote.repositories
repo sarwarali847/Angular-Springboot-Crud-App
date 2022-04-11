@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 25 18:18:53 IST 2021
+springfox-swagger-common-2.9.2.jar>central=
+springfox-swagger-common-2.9.2-sources.jar>central=
+springfox-swagger-common-2.9.2.pom>central=

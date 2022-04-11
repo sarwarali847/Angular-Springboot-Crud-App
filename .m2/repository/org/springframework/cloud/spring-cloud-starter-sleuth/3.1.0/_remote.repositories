@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 13 15:47:36 IST 2021
+spring-cloud-starter-sleuth-3.1.0.jar>central=
+spring-cloud-starter-sleuth-3.1.0-javadoc.jar>central=
+spring-cloud-starter-sleuth-3.1.0.pom>central=
